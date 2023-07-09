@@ -1,4 +1,4 @@
-# Power-bi-projects
+# Power-bi-project
 Project 1 : Ecommerce Sales data
 Analyzed e-commerce sales data: Conducted a comprehensive analysis of e-commerce sales data to uncover insights and patterns.
 Developed an interactive dashboard using Power BI: Created a visually appealing and user-friendly interactive dashboard to present the analyzed data effectively.
