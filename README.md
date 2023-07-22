@@ -21,3 +21,6 @@ Key Insights:
 4- Employees with 1 to 2 years of experience exhibit the highest attrition rates.
 
 5- Employees earning below the average salary of 6.5k are more likely to leave the company.
+
+Project 3 Key Insights:
+The Zomate sales dashboard offers valuable insights to enhance business performance. It tracks total sales, segment-specific sales, monthly sales and profits, city-based sales, and product category performance. These insights aid in optimizing operations, targeting marketing efforts, and boosting customer satisfaction, leading to overall business improvement.
